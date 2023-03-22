@@ -1,0 +1,1 @@
+phrase.find(phrase[::-1])
